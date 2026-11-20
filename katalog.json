@@ -1371,6 +1371,896 @@
       "dosyaAdi": "T. C. INKILAP TARİHİ VE ATATÜRKÇÜLÜK (8. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
       "yol": "2026-2027/t-c-inkilap-tarihi-ve-ataturkculuk/t-c-inkilap-tarihi-ve-ataturkculuk-8.xlsx",
       "boyutKb": 121
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Dini Bilgiler",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_aihl_TemelDiniBilgiler9_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/temel-dini-bilgiler-imam-hatip-lisesi-9.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027_aihl_TemelDiniBilgiler9_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Mesleki Arapça",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Mesleki_Arapca_11_aihl_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/mesleki-arapca-imam-hatip-lisesi-11.xlsx",
+      "boyutKb": 42,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027_Mesleki_Arapca_11_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Mesleki Arapça",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Mesleki_Arapca_12_aihl_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/mesleki-arapca-imam-hatip-lisesi-12.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027_Mesleki_Arapca_12_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Akaid",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_akaid11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/akaid-imam-hatip-lisesi-11.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_akaid11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Dinler Tarihi",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_dinlertarihi11.xlsx",
+      "yol": "2026-2027/din-ogretimi/dinler-tarihi-imam-hatip-lisesi-11.xlsx",
+      "boyutKb": 67,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_dinlertarihi11.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Fıkıh",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_fikih10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/fikih-imam-hatip-lisesi-10.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_fikih10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Hadis",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_hadis10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/hadis-imam-hatip-lisesi-10.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_hadis10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Hitabet",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_hitabet11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/hitabet-imam-hatip-lisesi-11.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_hitabet11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İslam Kültür ve Medeniyeti",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_islamkulturmedeniyeti12.xlsx",
+      "yol": "2026-2027/din-ogretimi/islam-kultur-ve-medeniyeti-imam-hatip-lisesi-12.xlsx",
+      "boyutKb": 73,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_islamkulturmedeniyeti12.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kelam",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_kelam12.xlsx",
+      "yol": "2026-2027/din-ogretimi/kelam-imam-hatip-lisesi-12.xlsx",
+      "boyutKb": 69,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_kelam12.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_kuran10.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-imam-hatip-lisesi-10.xlsx",
+      "boyutKb": 41,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_kuran10.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_kuran9_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-imam-hatip-lisesi-9.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_kuran9_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [],
+      "belirsiz": false,
+      "not": "Hazırlık sınıfı.",
+      "dosyaAdi": "2026-2027aihl_kuran_hazirlik_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-imam-hatip-lisesi-hazirlik.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_kuran_hazirlik_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Siyer",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_siyer10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/siyer-imam-hatip-lisesi-10.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_siyer10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Tefsir",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027aihl_tefsir11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/tefsir-imam-hatip-lisesi-11.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/AihlMeslek/2026-2027aihl_tefsir11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Arapca_10_aihl_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-lisesi-10.xlsx",
+      "boyutKb": 46,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_Arapca_10_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "sinif": [
+        5
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Arapca_5_iho_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-ortaokulu-5.xlsx",
+      "boyutKb": 44,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_Arapca_5_iho_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "sinif": [
+        6
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Arapca_6_iho_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-ortaokulu-6.xlsx",
+      "boyutKb": 44,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_Arapca_6_iho_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "İmam Hatip Lisesi",
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_Arapca_9_aihl_yillik_cerceve_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-lisesi-9.xlsx",
+      "boyutKb": 45,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_Arapca_9_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "sinif": [
+        7
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_iho_arapca7_cerceve_yillik_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-ortaokulu-7.xlsx",
+      "boyutKb": 39,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_iho_arapca7_cerceve_yillik_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Arapça",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027_iho_arapca_8_cerceve_yillik_plan.xlsx",
+      "yol": "2026-2027/din-ogretimi/arapca-imam-hatip-ortaokulu-8.xlsx",
+      "boyutKb": 39,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/Arapca/2026-2027_iho_arapca_8_cerceve_yillik_plan.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-10.xlsx",
+      "boyutKb": 40,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-11.xlsx",
+      "boyutKb": 40,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab12.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-12.xlsx",
+      "boyutKb": 115,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab12.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab4.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-4.xlsx",
+      "boyutKb": 56,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab4.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab5_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-5.xlsx",
+      "boyutKb": 41,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab5_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        6
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab6_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-6.xlsx",
+      "boyutKb": 41,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab6_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        7
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab7_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-7.xlsx",
+      "boyutKb": 40,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab7_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab8.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-8.xlsx",
+      "boyutKb": 46,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab8.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Din Kültürü ve Ahlak Bilgisi",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027dkab9_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/din-kulturu-ve-ahlak-bilgisi-genel-9.xlsx",
+      "boyutKb": 40,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/DKAB/2026-2027dkab9_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-10.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-11.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran12.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-12.xlsx",
+      "boyutKb": 39,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran12.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran5_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-5.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran5_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        6
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran6_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-6.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran6_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        7
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran7_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-7.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran7_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran8.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-8.xlsx",
+      "boyutKb": 42,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran8.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kur'an-ı Kerim",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027kuran9_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/kur-an-i-kerim-genel-9.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/KuraniKerim/2026-2027kuran9_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        10
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati10_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-10.xlsx",
+      "boyutKb": 39,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati10_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati11_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-11.xlsx",
+      "boyutKb": 40,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati11_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati12.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-12.xlsx",
+      "boyutKb": 48,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati12.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati5_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-5.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati5_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        6
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati6_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-6.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati6_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        7
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati7_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-7.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati7_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati8.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-8.xlsx",
+      "boyutKb": 67,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati8.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Peygamberimizin Hayatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027peygamberimizinhayati9_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/peygamberimizin-hayati-genel-9.xlsx",
+      "boyutKb": 41,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/PeygamberimizinHayati/2026-2027peygamberimizinhayati9_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Dini Bilgiler",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Ders 2 (sınıf dosya adında yazmıyor).",
+      "dosyaAdi": "2026-2027temeldinibilgiler_ortaogretim2.xlsx",
+      "yol": "2026-2027/din-ogretimi/temel-dini-bilgiler-genel-ders.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/TemelDiniBilgiler/2026-2027temeldinibilgiler_ortaogretim2.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Dini Bilgiler",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Ders 1 (sınıf dosya adında yazmıyor).",
+      "dosyaAdi": "2026-2027temeldinibilgiler_ortaokul1_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/temel-dini-bilgiler-genel-ders-2.xlsx",
+      "boyutKb": 38,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/TemelDiniBilgiler/2026-2027temeldinibilgiler_ortaokul1_TYMM.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Dini Bilgiler",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Ders 2 (sınıf dosya adında yazmıyor).",
+      "dosyaAdi": "2026-2027temeldinibilgiler_ortaokul2.xlsx",
+      "yol": "2026-2027/din-ogretimi/temel-dini-bilgiler-genel-ders-3.xlsx",
+      "boyutKb": 39,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/TemelDiniBilgiler/2026-2027temeldinibilgiler_ortaokul2.xlsx"
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Dini Bilgiler",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Ders 1 (sınıf dosya adında yazmıyor).",
+      "dosyaAdi": "2026-2027temeldinibilgiler_ortaoogretim1_TYMM.xlsx",
+      "yol": "2026-2027/din-ogretimi/temel-dini-bilgiler-genel-ders-4.xlsx",
+      "boyutKb": 37,
+      "kaynak": "dogm",
+      "kaynakUrl": "https://dogm.meb.gov.tr/Programlar/CerceveYillikPlan/TemelDiniBilgiler/2026-2027temeldinibilgiler_ortaoogretim1_TYMM.xlsx"
     }
   ]
 }
