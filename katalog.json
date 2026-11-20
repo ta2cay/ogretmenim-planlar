@@ -1,5 +1,5 @@
 {
-  "surum": 1,
+  "surum": 2,
   "planlar": [
     {
       "yil": "2025-2026",
@@ -14,7 +14,8 @@
       "not": "",
       "dosyaAdi": "Beden eğitimi ve oyun 1.sınıf TYMM-25 Ekim2025.xlsx",
       "yol": "2025-2026/beden-egitimi-ve-oyun-dersi/beden-egitimi-ve-oyun-1-sinif-tymm-25-ekim2025.xlsx",
-      "boyutKb": 63
+      "boyutKb": 63,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -29,7 +30,8 @@
       "not": "",
       "dosyaAdi": "Beden eğitimi ve oyun 2.sınıf TYMM (2) düzenlendi.xlsx",
       "yol": "2025-2026/beden-egitimi-ve-oyun-dersi/beden-egitimi-ve-oyun-2-sinif-tymm-2-duzenlendi.xlsx",
-      "boyutKb": 44
+      "boyutKb": 44,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -44,7 +46,8 @@
       "not": "",
       "dosyaAdi": "5. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan - Düzeltmeler Yapıldı.xlsx",
       "yol": "2025-2026/beden-egitimi-ve-spor-dersi/5-sinif-beden-egitimi-ve-spor-dersi-cerceve-yillik-plan-duzeltmeler-yapildi.xlsx",
-      "boyutKb": 47
+      "boyutKb": 47,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -59,7 +62,8 @@
       "not": "",
       "dosyaAdi": "6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
       "yol": "2025-2026/beden-egitimi-ve-spor-dersi/6-sinif-beden-egitimi-ve-spor-dersi-cerceve-yillik-plan-duzeltilmis-son-hali.xlsx",
-      "boyutKb": 46
+      "boyutKb": 46,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -74,7 +78,8 @@
       "not": "",
       "dosyaAdi": "TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/bilisim-teknolojileri-ve-yazilim-dersi/tymm-bilisim-teknolojileri-dersi-5-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 43
+      "boyutKb": 43,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -89,7 +94,8 @@
       "not": "",
       "dosyaAdi": "TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/bilisim-teknolojileri-ve-yazilim-dersi/tymm-bilisim-teknolojileri-dersi-6-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 43
+      "boyutKb": 43,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -110,7 +116,8 @@
       "not": "",
       "dosyaAdi": "2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
       "yol": "2025-2026/fen-bilimleri-dersi/2025-2026-fen-bilimleri-cerceve-yillik-plan-3-8.xlsx",
-      "boyutKb": 170
+      "boyutKb": 170,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -125,7 +132,8 @@
       "not": "",
       "dosyaAdi": "TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/gorsel-sanatlar-dersi/tymm-gorsel-sanatlar-dersi-5-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 52
+      "boyutKb": 52,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -140,7 +148,8 @@
       "not": "",
       "dosyaAdi": "TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/gorsel-sanatlar-dersi/tymm-gorsel-sanatlar-dersi-1-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 52
+      "boyutKb": 52,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -153,7 +162,8 @@
       "not": "Sınıf dosya adında yazmıyor.",
       "dosyaAdi": "Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
       "yol": "2025-2026/hayat-bilgisi-dersi/hayat-bilgisi-taslak-yillik-planlar.xlsx",
-      "boyutKb": 114
+      "boyutKb": 114,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -169,7 +179,8 @@
       "not": "",
       "dosyaAdi": "3  VE 4. SINIFLAR İNGİLİZCE 2025-2026 YILLIK PLANLAR.xlsx",
       "yol": "2025-2026/ingilizce-ve-cydem-ingilizce/3-ve-4-siniflar-ingilizce-2025-2026-yillik-planlar.xlsx",
-      "boyutKb": 53
+      "boyutKb": 53,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -186,7 +197,8 @@
       "not": "Eski program.",
       "dosyaAdi": "İNGİLİZCE 6, 7 ve 8. SINIF 2025-2026 YILLIK PLANLAR (ESKİ PROGRAM).xlsx",
       "yol": "2025-2026/ingilizce-ve-cydem-ingilizce/ingilizce-6-7-ve-8-sinif-2025-2026-yillik-planlar-eski-program.xlsx",
-      "boyutKb": 68
+      "boyutKb": 68,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -197,7 +209,8 @@
       "not": "Kademe ve sınıf dosya adında yazmıyor.",
       "dosyaAdi": "İNGİLİZCE TYMM ÇYDEM TASLAK YILLIK PLANLAR 19.11.25.xlsx",
       "yol": "2025-2026/ingilizce-ve-cydem-ingilizce/ingilizce-tymm-cydem-taslak-yillik-planlar-19-11-25.xlsx",
-      "boyutKb": 498
+      "boyutKb": 498,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -210,7 +223,8 @@
       "not": "Sınıf dosya adında yazmıyor.",
       "dosyaAdi": "2025-2026 Çerçeve Yıllık Plan Matematik İlkokul.xlsx",
       "yol": "2025-2026/matematik-dersi/2025-2026-cerceve-yillik-plan-matematik-ilkokul.xlsx",
-      "boyutKb": 139
+      "boyutKb": 139,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -223,7 +237,8 @@
       "not": "Sınıf dosya adında yazmıyor.",
       "dosyaAdi": "Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
       "yol": "2025-2026/matematik-dersi/ortaokul-matematik-taslak-cerceve-yillik-plan-matematik-18-09-2025.xlsx",
-      "boyutKb": 164
+      "boyutKb": 164,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -238,7 +253,8 @@
       "not": "",
       "dosyaAdi": "TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/muzik-dersi/tymm-muzik-dersi-1-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 40
+      "boyutKb": 40,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -253,7 +269,8 @@
       "not": "",
       "dosyaAdi": "TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
       "yol": "2025-2026/muzik-dersi/tymm-muzik-dersi-5-sinif-taslak-cerceve-yillik-plani.xlsx",
-      "boyutKb": 40
+      "boyutKb": 40,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -272,7 +289,8 @@
       "not": "",
       "dosyaAdi": "2025-2026 Sosyal Bilgiler 4-7. Sınıf  Yıllık Planlar.xlsx",
       "yol": "2025-2026/sosyal-bilgiler-dersi/2025-2026-sosyal-bilgiler-4-7-sinif-yillik-planlar.xlsx",
-      "boyutKb": 138
+      "boyutKb": 138,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -287,7 +305,8 @@
       "not": "",
       "dosyaAdi": "8. SINIF T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK DERSİ YILLIK PLANI.xlsx",
       "yol": "2025-2026/t-c-inkilap-tarihi-ve-ataturkculuk-dersi/8-sinif-t-c-inkilap-tarihi-ve-ataturkculuk-dersi-yillik-plani.xlsx",
-      "boyutKb": 121
+      "boyutKb": 121,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -298,7 +317,8 @@
       "not": "Kademe ve sınıf dosya adında yazmıyor.",
       "dosyaAdi": "2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
       "yol": "2025-2026/turkce-dersi/2025-2026-turkce-taslak-cerceve-yillik-plan.xlsx",
-      "boyutKb": 218
+      "boyutKb": 218,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -316,7 +336,8 @@
       "not": "",
       "dosyaAdi": "Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
       "yol": "2025-2026/turkce-dersi/turkce-1-4-cerceve-yillik-planlar-2025-2026.xlsx",
-      "boyutKb": 159
+      "boyutKb": 159,
+      "okulTuru": null
     },
     {
       "yil": "2025-2026",
@@ -327,7 +348,1029 @@
       "not": "Kademe ve sınıf dosya adında yazmıyor.",
       "dosyaAdi": "2025-2026_TYMM_Cerceve_Yillik_Plan_ALMANCA tamamı.xlsx",
       "yol": "2025-2026/cydem-almanca-dersi/2025-2026-tymm-cerceve-yillik-plan-almanca-tamami.xlsx",
-      "boyutKb": 104
+      "boyutKb": 104,
+      "okulTuru": null
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Beden Eğitimi ve Spor",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "beden eğitimi ve spor dersi yp.xlsx",
+      "yol": "2026-2027/beden-egitimi-ve-spor/beden-egitimi-ve-spor-genel.xlsx",
+      "boyutKb": 91
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Biyoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "BİYOLOJİ 2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/biyoloji/biyoloji-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 74
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Biyoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "BİYOLOJİ 2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/biyoloji/biyoloji-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 76
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Coğrafya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/cografya/cografya-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 90
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Coğrafya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/cografya/cografya-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 89
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Coğrafya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/cografya/cografya-sosyal-bilimler-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 94
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Felsefe",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        10,
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN (1) - Kopya.xlsx",
+      "yol": "2026-2027/felsefe/felsefe-anadolu-lisesi-10-11.xlsx",
+      "boyutKb": 48
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Felsefe",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        10,
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN BİLİMLER LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/felsefe/felsefe-fen-lisesi-10-11.xlsx",
+      "boyutKb": 48
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Felsefe",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [
+        10,
+        11
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/felsefe/felsefe-sosyal-bilimler-lisesi-10-11.xlsx",
+      "boyutKb": 52
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Mantık",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ MANTIK DERSİ TASLAK YILLIK PLAN - Kopya.xlsx",
+      "yol": "2026-2027/mantik/mantik-anadolu-lisesi.xlsx",
+      "boyutKb": 39
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Mantık",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ MANTIK DERSİ TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/mantik/mantik-sosyal-bilimler-lisesi.xlsx",
+      "boyutKb": 40
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Psikoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ PSİOKOLOJİ DERSİ TASLAK YILLIK PLAN (3) - Kopya - Kopya.xlsx",
+      "yol": "2026-2027/psikoloji/psikoloji-anadolu-lisesi.xlsx",
+      "boyutKb": 39
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Psikoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ PSİOKOLOJİ DERSİ TASLAK YILLIK PLAN (3) - Kopya - Kopya.xlsx",
+      "yol": "2026-2027/psikoloji/psikoloji-sosyal-bilimler-lisesi.xlsx",
+      "boyutKb": 41
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyal Bilim Çalışmaları",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Dersin 1/2/3 numarası dosya adında; sınıfı belirtilmemiş.",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ  SBÇ 2 SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/sosyal-bilim-calismalari/sosyal-bilim-calismalari-sosyal-bilimler-lisesi.xlsx",
+      "boyutKb": 39
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyal Bilim Çalışmaları",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Dersin 1/2/3 numarası dosya adında; sınıfı belirtilmemiş.",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ SBÇ 3 SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/sosyal-bilim-calismalari/sosyal-bilim-calismalari-sosyal-bilimler-lisesi-2.xlsx",
+      "boyutKb": 39
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyal Bilim Çalışmaları",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Dersin 1/2/3 numarası dosya adında; sınıfı belirtilmemiş.",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ SÇB 1 SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/sosyal-bilim-calismalari/sosyal-bilim-calismalari-sosyal-bilimler-lisesi-3.xlsx",
+      "boyutKb": 40
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ  SOSYOLOJİ DERSİ SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/sosyoloji/sosyoloji-anadolu-lisesi.xlsx",
+      "boyutKb": 40
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyoloji",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ  SOSYOLOJİ 1 DERSİ SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/sosyoloji/sosyoloji-sosyal-bilimler-lisesi.xlsx",
+      "boyutKb": 41
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Fizik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ  TASLAK YILLIK PLAN inceleme.xlsx",
+      "yol": "2026-2027/fizik/fizik-anadolu-lisesi.xlsx",
+      "boyutKb": 80
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Fizik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ TASLAK YILLIK PLAN inceleme.xlsx",
+      "yol": "2026-2027/fizik/fizik-fen-lisesi.xlsx",
+      "boyutKb": 86
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Fizik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [],
+      "belirsiz": true,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ TASLAK YILLIK PLAN inceleme.xlsx",
+      "yol": "2026-2027/fizik/fizik-sosyal-bilimler-lisesi.xlsx",
+      "boyutKb": 54
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Görsel Sanatlar",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "Hazırlık sınıfı dahil.",
+      "dosyaAdi": "2026-2027 GÖRSEL SANATLAR H,9,10,11,12. SINIF TASLAK YILLIK PLAN 260826.xlsx",
+      "yol": "2026-2027/gorsel-sanatlar/gorsel-sanatlar-genel-9-10-11-12.xlsx",
+      "boyutKb": 74
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İngilizce",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [],
+      "belirsiz": true,
+      "not": "Hazırlık sınıfı bulunan liseler. Hazırlık sınıfı dahil.",
+      "dosyaAdi": "İNGİLİZCE - 2026-2027 HAZIRLIK SINIFI BULUNAN LİSELER TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/ingilizce/ingilizce-genel.xlsx",
+      "boyutKb": 296
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İngilizce",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "Hazırlık sınıfı bulunmayan liseler. Hazırlık sınıfı dahil.",
+      "dosyaAdi": "İNGİLİZCE - 2026-2027 HAZIRLIK SINIFI BULUNMAYAN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/ingilizce/ingilizce-genel-9-10-11-12.xlsx",
+      "boyutKb": 224
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kimya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "yol": "2026-2027/kimya/kimya-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 82
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kimya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "yol": "2026-2027/kimya/kimya-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 86
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Kimya",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "yol": "2026-2027/kimya/kimya-sosyal-bilimler-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 54
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Matematik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN en son.xlsx",
+      "yol": "2026-2027/matematik/matematik-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 94
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Matematik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN en son.xlsx",
+      "yol": "2026-2027/matematik/matematik-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 102
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Müzik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 11- 12.SINIF MÜZİK DERSİ TASLAK YILLIK PLAN..xlsx",
+      "yol": "2026-2027/muzik/muzik-genel-11-12.xlsx",
+      "boyutKb": 47
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Müzik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        9,
+        10
+      ],
+      "belirsiz": false,
+      "not": "Hazırlık sınıfı dahil.",
+      "dosyaAdi": "2026-2027 Hazırlık,9,10. SINIF MÜZİK DERSİ TASLAK YILLIK PLAN..xlsx",
+      "yol": "2026-2027/muzik/muzik-genel-9-10.xlsx",
+      "boyutKb": 54
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Tarih",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN (1).xlsx",
+      "yol": "2026-2027/tarih/tarih-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 76
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Tarih",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN (1).xlsx",
+      "yol": "2026-2027/tarih/tarih-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 76
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Tarih",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "yol": "2026-2027/tarih/tarih-sosyal-bilimler-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 78
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Temel Matematik",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 11Temel Matematik ve 12 Temel Düzey Matematik Yıllık Planları.xlsx",
+      "yol": "2026-2027/temel-matematik/temel-matematik-genel-11-12.xlsx",
+      "boyutKb": 47
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türk Dili ve Edebiyatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Anadolu Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN son.xlsx",
+      "yol": "2026-2027/turk-dili-ve-edebiyati/turk-dili-ve-edebiyati-anadolu-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 117
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türk Dili ve Edebiyatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Fen Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN son.xlsx",
+      "yol": "2026-2027/turk-dili-ve-edebiyati/turk-dili-ve-edebiyati-fen-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 117
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türk Dili ve Edebiyatı",
+      "kademe": [
+        "lise"
+      ],
+      "okulTuru": "Sosyal Bilimler Lisesi",
+      "sinif": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 SOSYAL BİLİMLER LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN son.xlsx",
+      "yol": "2026-2027/turk-dili-ve-edebiyati/turk-dili-ve-edebiyati-sosyal-bilimler-lisesi-9-10-11-12.xlsx",
+      "boyutKb": 122
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Beden Eğitimi ve Oyun",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "BEDEN EĞİTİMİ VE OYUN (1-4. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "yol": "2026-2027/beden-egitimi-ve-oyun/beden-egitimi-ve-oyun-1-2-3-4.xlsx",
+      "boyutKb": 83
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Beden Eğitimi ve Spor",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "BEDEN EĞİTİMİ VE SPOR (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "yol": "2026-2027/beden-egitimi-ve-spor/beden-egitimi-ve-spor-5-6-7-8.xlsx",
+      "boyutKb": 111
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Bilişim Teknolojileri ve Yazılım",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "BİLİŞİM TEKNOLOJİLERİ  (5-6. SINIF) TASLAK ÇERÇEVE YILLIK PLANI  +++.xlsx",
+      "yol": "2026-2027/bilisim-teknolojileri-ve-yazilim/bilisim-teknolojileri-ve-yazilim-5-6.xlsx",
+      "boyutKb": 110
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Almanca (Çoklu Yabancı Dil Eğitim Modeli)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "ÇOKLU YABANCI DİL ALMANCA  (5-8. SINIF)TASLAK ÇERÇEVE  YILLIK PLAN.xlsx",
+      "yol": "2026-2027/almanca-coklu-yabanci-dil-egitim-modeli/almanca-coklu-yabanci-dil-egitim-modeli-5-6-7-8.xlsx",
+      "boyutKb": 132
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İngilizce (Çoklu Yabancı Dil Eğitim Modeli)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "ÇOKLU  YABANCI DİL İNGİLİZCE (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "yol": "2026-2027/ingilizce-coklu-yabanci-dil-egitim-modeli/ingilizce-coklu-yabanci-dil-egitim-modeli-5-6-7-8.xlsx",
+      "boyutKb": 188
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Fen Bilimleri",
+      "kademe": [
+        "ilkokul",
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "FEN BİLİMLERİ  (3-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "yol": "2026-2027/fen-bilimleri/fen-bilimleri-3-4-5-6-7-8.xlsx",
+      "boyutKb": 199
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Görsel Sanatlar",
+      "kademe": [
+        "ilkokul",
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "GÖRSEL SANATLAR  (1-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN.xls",
+      "yol": "2026-2027/gorsel-sanatlar/gorsel-sanatlar-1-2-3-4-5-6-7-8.xls",
+      "boyutKb": 379
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Hayat Bilgisi",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "HAYAT_BILGISI_(1-3._SINIFLAR)_ TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "yol": "2026-2027/hayat-bilgisi/hayat-bilgisi-1-2-3.xlsx",
+      "boyutKb": 75
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Matematik (İlkokul)",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "MATEMATİK (1-4. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "yol": "2026-2027/matematik-ilkokul/matematik-ilkokul-1-2-3-4.xlsx",
+      "boyutKb": 147
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türkçe (İlkokul, Ada Yayınları ders kitabı)",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "TURKÇE_4. Sınıf ADA Yayınları Ders Kitabı YIllık Planı (2019 Programı).xlsx",
+      "yol": "2026-2027/turkce-ilkokul-ada-yayinlari-ders-kitabi/turkce-ilkokul-ada-yayinlari-ders-kitabi-4.xlsx",
+      "boyutKb": 42
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türkçe (İlkokul)",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "TURKÇE_(1-4._SINIFLAR)_ TASLAK ÇERÇEVE  YILLIK_PLAN.xlsx",
+      "yol": "2026-2027/turkce-ilkokul/turkce-ilkokul-1-2-3-4.xlsx",
+      "boyutKb": 169
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İngilizce",
+      "kademe": [
+        "ilkokul",
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "İNGİLİZCE (2-8. SINIF) TASLAK YILLIK ÇERÇEVE PLAN.xlsx",
+      "yol": "2026-2027/ingilizce/ingilizce-2-3-4-5-6-7-8.xlsx",
+      "boyutKb": 178
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "İnsan Hakları, Vatandaşlık ve Demokrasi",
+      "kademe": [
+        "ilkokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        4
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "İNSAN HAKLARI, VATANDAŞLIK  VE DEMOKRASİ (4. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "yol": "2026-2027/insan-haklari-vatandaslik-ve-demokrasi/insan-haklari-vatandaslik-ve-demokrasi-4.xlsx",
+      "boyutKb": 121
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Müzik",
+      "kademe": [
+        "ilkokul",
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "MÜZİK (1-8. SINIF) TASLAK YILLIK ÇERÇEVE  PLAN.xlsx",
+      "yol": "2026-2027/muzik/muzik-1-2-3-4-5-6-7-8.xlsx",
+      "boyutKb": 158
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Matematik (Ortaokul)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "MATEMATİK (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "yol": "2026-2027/matematik-ortaokul/matematik-ortaokul-5-6-7-8.xlsx",
+      "boyutKb": 148
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Teknoloji ve Tasarım (Ortaokul)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "TEKNOLOJİ VE TASARIM (7-8. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN (1).xlsx",
+      "yol": "2026-2027/teknoloji-ve-tasarim-ortaokul/teknoloji-ve-tasarim-ortaokul-7-8.xlsx",
+      "boyutKb": 56
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türkçe (Ortaokul)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "2026-2027 Türkçe 8 Hecce Yayınları Çerçeve Yıllık Plan.xlsx",
+      "yol": "2026-2027/turkce-ortaokul/turkce-ortaokul-8.xlsx",
+      "boyutKb": 93
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Türkçe (Ortaokul)",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "TÜRKÇE (5-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "yol": "2026-2027/turkce-ortaokul/turkce-ortaokul-5-6-7-8.xlsx",
+      "boyutKb": 197
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "Sosyal Bilgiler",
+      "kademe": [
+        "ilkokul",
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "SOSYAL BİLGİLER (4-7. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "yol": "2026-2027/sosyal-bilgiler/sosyal-bilgiler-4-5-6-7.xlsx",
+      "boyutKb": 187
+    },
+    {
+      "yil": "2026-2027",
+      "ders": "T.C. İnkılap Tarihi ve Atatürkçülük",
+      "kademe": [
+        "ortaokul"
+      ],
+      "okulTuru": null,
+      "sinif": [
+        8
+      ],
+      "belirsiz": false,
+      "not": "",
+      "dosyaAdi": "T. C. INKILAP TARİHİ VE ATATÜRKÇÜLÜK (8. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "yol": "2026-2027/t-c-inkilap-tarihi-ve-ataturkculuk/t-c-inkilap-tarihi-ve-ataturkculuk-8.xlsx",
+      "boyutKb": 121
     }
   ]
 }
